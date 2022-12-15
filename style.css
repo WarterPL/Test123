@@ -1,0 +1,36 @@
+.tabelka
+{
+    color: white;    
+}
+body
+{
+    background-repeat: no-repeat;
+    background: linear-gradient(rgb(114, 5, 209), rgb(0, 0, 0));
+    background-attachment: fixed;
+    
+    color: white; 
+}
+td
+{
+    border-style: inset;
+    border-width: 3px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+}
+.dnityg
+{
+    border-color:rgb(95, 81, 184);
+}
+.przewoznik
+{
+    border-color:rgb(214, 152, 5);
+}
+.godzina
+{
+    border-color:rgb(92, 255, 152);
+}
+.numer
+{
+    border-color:rgb(244, 14, 71);
+}
